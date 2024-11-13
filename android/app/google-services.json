@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "165395589555",
+    "project_id": "sustitucionesprofesores",
+    "storage_bucket": "sustitucionesprofesores.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165395589555:android:8af51774ba0f417f3e43c6",
+        "android_client_info": {
+          "package_name": "com.example.sustituciones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARmHDy5-aneBMZJ7jJBmoa70Fk9UsI7VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165395589555:android:42976ab941ee90e13e43c6",
+        "android_client_info": {
+          "package_name": "com.example.sustituciones_profesorado"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARmHDy5-aneBMZJ7jJBmoa70Fk9UsI7VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
